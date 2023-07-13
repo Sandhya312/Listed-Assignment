@@ -1,0 +1,17 @@
+.activities {
+  background-color: #FFFFFF;
+
+  width: 1000px;
+  height: 359px;
+  border-radius: 10px;
+  margin: 2% 0 2% 1%;
+  padding: 2%;
+
+}
+
+.chart {
+  height: 18rem;
+  width: 100%;
+  display: flex;
+ justify-content: center;
+}

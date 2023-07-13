@@ -1,0 +1,31 @@
+
+.card{
+    /* background-color: #DDEFE0; */
+    border-radius: 10px;
+    display: flex;
+    height: 120px;
+    padding: 7%;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.card .cardLeft p{
+ color: #000000;
+font-size: 14px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.card  .cardLeft h1{
+color: #000000;
+font-size: 24px;
+font-weight: 700;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: left;
+}
+.card .cardRight{
+    align-self:flex-start;
+}
