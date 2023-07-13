@@ -76,12 +76,6 @@
   margin: 4% 0 2% 1%;
 }
 
-.dashboardContainer .mainContainer .topProducts .product {
-  width: 480px;
-  height: 256px;
-  background-color: red;
-  border-radius: 10px;
-}
 
 .dashboardContainer .mainContainer .topProducts .schedule {
   background-color: #f6fee5;
